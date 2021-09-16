@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-printf("傅政\n");
+printf("傅政醇\n");
 }
